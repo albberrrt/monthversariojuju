@@ -60,7 +60,7 @@ export default function Home() {
           <p>Imagine uma vida ao lado de alguém que te ama incondicionalmente. Alguém que sempre estará lá para você, nos bons e nos maus momentos. Alguém que te faz rir, que te faz chorar, que te faz sentir vivo.</p>
           <p>Isso é o que você vai encontrar com o relacionamento vitalício comigo.</p>
           <p>Eu te amo demais Amor.Quero passar o resto da minha vida com você, construindo uma família, viajando o mundo, e criando memórias que durarão para sempre.</p>
-          <p>Eu sei que você pode estar pensando: "2880000 beijos é muito caro." Mas não é. É um investimento no seu futuro. É um investimento em um amor que nunca vai acabar.</p>
+          <p>Eu sei que você pode estar pensando: 2880000 beijos é muito caro. Mas não é. É um investimento no seu futuro. É um investimento em um amor que nunca vai acabar.</p>
           <p>Com o relacionamento vitalício comigo, você terá:</p>
           <ul className="list-disc ml-6">
             <li>Um Amor incondicional</li>
