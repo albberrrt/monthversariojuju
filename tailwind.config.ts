@@ -18,7 +18,31 @@ const config = {
       },
     },
     extend: {
-
+      keyframes: {
+        colorful: {
+          '0%, 100%': {
+            color: '#fc0303'
+          },
+          '10%': {
+            color: '#fff700'
+          },
+          '20%': {
+            color: '#1aff00'
+          },
+          '40%': {
+            color: '#00fffb'
+          },
+          '65%': {
+            color: '#001aff'
+          },
+          '90%': {
+            color: '#ff00fb'
+          }
+        }
+      },
+      animation: {
+        colorful: 'colorful 3s ease-in-out infinite',
+      }
     },
   },
   plugins: [require("tailwindcss-animate")],
